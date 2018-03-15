@@ -7,3 +7,4 @@ I get a idea
 000000
 I make a mistake~
 I make a mistake too.
+Creating a branch is quickly.
