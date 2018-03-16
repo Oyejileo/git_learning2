@@ -15,4 +15,3 @@ I come to master
 
 I add a dev!
 
-I fixed a bug!
