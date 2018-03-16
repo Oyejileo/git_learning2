@@ -8,3 +8,4 @@ I get a idea
 I make a mistake~
 I make a mistake too.
 Creating a branch is quickly.
+Creating a new branch is quick & simple.
